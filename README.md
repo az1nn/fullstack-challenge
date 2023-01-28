@@ -2,7 +2,7 @@
 
 Made with Next Js (client and API), Prisma ORM and SQLite Database.
 
-## Instructions
+## How to run the application
 
 git clone 
 
